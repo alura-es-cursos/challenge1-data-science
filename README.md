@@ -6,8 +6,7 @@ Este projeto consiste na análise comparativa de dados de vendas de quatro lojas
 
 ```
 ├── src/AluraStoreBr.ipynb   # Notebook com todo o processo de análise e visualizações
-├── README.md            # Este arquivo de documentação
-└── data/                # (Opcional) Pasta para armazenar datasets locais
+└── README.md            # Este arquivo de documentação
 ```
 
 ## 🔍 Descrição do Projeto
